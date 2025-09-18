@@ -4,11 +4,18 @@ HTML program-1
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=<h1>>, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body {
+            background-color: green;
+        }
+    </style>
 </head>
-<body>
-    <script src="sample.js"></script>
+<body bg="green">
+    <h1>harsha</h1>
+    <h2><p>The heart of Demon Slayer: Kimetsu no Yaiba lies in its compelling characters<\p></h2>
+    <hr><hr>
+    <marquee><font face="Algerian" size="6" color="red">welcome to my website</font></marquee>
 </body>
 </html>
-
